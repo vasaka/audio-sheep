@@ -1,0 +1,8 @@
+#pragma once
+
+namespace audio_sheep {
+
+class generator_t {
+};
+
+}
